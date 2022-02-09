@@ -1,3 +1,5 @@
+# Пример использования сервиса ksuid генератора
+
 # rest-client-quickstart Project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
